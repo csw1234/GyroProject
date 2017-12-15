@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MoveoGyroProject</string>
+
+    <!--Define name for the button to change to data view  -->
+    <string name="show_data_button">Show Data</string>
+
+    <!--Define name for the button to change to photo view  -->
+    <string name="show_pic_button">Show Photo</string>
 </resources>
